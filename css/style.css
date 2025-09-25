@@ -393,7 +393,7 @@ body {
 }
 .scroll-hero::before {
 	content: "";
-	background: url("../img/icons/arrow-down.svg") 0 bottom / 100% no-repeat;
+	background: url("../img/icons/arrow.-down.svg") 0 bottom / 100% no-repeat;
 	width: 20px;
 	height: 88px;
 }
@@ -1002,7 +1002,7 @@ body {
 	line-height: 1.2;
 	padding-left: 81px;
 	min-height: 51px;
-	background: url("../img/icons/quote.svg") left no-repeat;
+	background: url("../img/icons/guotes.svg") left no-repeat;
 }
 .item-reviews__text {
 	margin-bottom: 40px;
